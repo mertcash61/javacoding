@@ -1,4 +1,4 @@
-public class MatematikIslemleri {
+public class Matematikselİşlemler {
     public static void main(String[] args) {
         int sayi1 = 5;
         int sayi2 = 3;
